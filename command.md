@@ -39,4 +39,23 @@ source ~/.zshrc
 ```
 node 
 
+[WIP] 途中です
 
+| pbcopy
+
+npm run start
+
+```
+#token の作り方
+1.tokenを作る
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#using-a-token-on-the-command-line
+
+2.itermで要求されるpasswordにtokenを入力
+
+```
+
+
+(`${}`) =>string 
+() =>object
+
+? optional
