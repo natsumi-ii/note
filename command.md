@@ -24,6 +24,8 @@ git pull --rebase origin ブランチ名
 git add
 git rebase --continue
 gpo ブランチ名　--force
+
+controle r =>fzf
 ```
 
 nodeでjsを試す

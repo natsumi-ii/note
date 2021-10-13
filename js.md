@@ -52,3 +52,11 @@ loop
 number
 
 - parseInt
+
+data = {
+  columns = {
+    id:1,
+    text:'hoge' }
+}
+
+data.columns = data['columns']

@@ -1,0 +1,4 @@
+- magnet
+- karabina
+- BigBlueTerminal　terminalテーマ
+- Alttab ショートカット
