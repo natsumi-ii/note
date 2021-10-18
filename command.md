@@ -1,4 +1,10 @@
-#git 
+- iterm
+```
+ディレクトリ削除
+rm -r ディレクトリ名
+```
+
+- git 
 ```
 //新規追加
 git init
@@ -30,7 +36,7 @@ controle r =>fzf
 
 nodeでjsを試す
 
-#alias
+- alias
 ```
 vim ~/.zshrc
 
@@ -47,8 +53,9 @@ node
 
 npm run start
 
+- token
 ```
-#token の作り方
+token の作り方
 1.tokenを作る
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#using-a-token-on-the-command-line
 

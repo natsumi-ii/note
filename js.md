@@ -1,3 +1,4 @@
+
 ```js
 const coordinates = (e) => {
   e.clientX(X座標);
