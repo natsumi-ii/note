@@ -1,10 +1,12 @@
 - iterm
+
 ```
 ディレクトリ削除
 rm -r ディレクトリ名
 ```
 
-- git 
+- git
+
 ```
 //新規追加
 git init
@@ -34,9 +36,10 @@ gpo ブランチ名　--force
 controle r =>fzf
 ```
 
-nodeでjsを試す
+node で js を試す
 
 - alias
+
 ```
 vim ~/.zshrc
 
@@ -45,7 +48,8 @@ alias co='code .'
 
 source ~/.zshrc
 ```
-node 
+
+node
 
 [WIP] 途中です
 
@@ -54,6 +58,7 @@ node
 npm run start
 
 - token
+
 ```
 token の作り方
 1.tokenを作る
@@ -63,8 +68,7 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
 
 ```
 
-
-(`${}`) =>string 
+(`${}`) =>string
 () =>object
 
 ? optional
