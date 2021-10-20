@@ -1,6 +1,6 @@
-1018
-- next - client-navigationまで、、できたらAssetsまで
-- motive　動かせるように
+1020
+- カンバンボード
+- next deploy
 
 月曜まで
 - 速達js
