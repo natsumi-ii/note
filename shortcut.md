@@ -15,6 +15,11 @@ shift + o =>　コンポーネントに移動
 
 + :拡大
 -　：縮小
+
+f12 => 使われている先にとぶ
+control +
+- => go back　戻る(f12実行後)
+- +shift => go forward　進む(f12実行後)
 ```
 
 - chrome
