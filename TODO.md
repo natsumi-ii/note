@@ -1,10 +1,6 @@
-10/30
-- commentsを読む
-- task2  コメント
-- task3 less than 00:00:00
-- task7 motive css
-- task8 真ん中にする
-- task9 青いborderが出ないように
+11/1
+- task3
+- task7 書き直し
 
 月曜まで
 - 速達js
