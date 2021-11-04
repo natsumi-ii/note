@@ -1,6 +1,6 @@
-11/1
-- task3
-- task7 書き直し
+11/4
+- api
+- task edit
 
 月曜まで
 - 速達js
