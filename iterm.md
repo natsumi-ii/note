@@ -76,3 +76,15 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
 () =>object
 
 ? optional
+
+```
+movie => gif => github
+
+1.take a video by quick media player
+
+2.do command
+❯ ffmpeg -i 画面収録\ 2021-11-06\ 22.27.59.mov(movie file) -vf setpts=PTS/2.5 -r 10 pr.gif
+
+3.drag gif on desktop and drop to github
+
+```

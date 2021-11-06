@@ -5,3 +5,4 @@
 
 - slack
 - Docker
+- ffmpeg
