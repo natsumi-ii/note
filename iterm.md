@@ -88,3 +88,12 @@ movie => gif => github
 3.drag gif on desktop and drop to github
 
 ```
+
+dayjs = require('dayjs')
+
+nestjsは => serve側で使っている
+nextjsは => web側で使っている
+
+- prismaで追加したときなど
+migrationをする
+prisma db pushで実質migration
