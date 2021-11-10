@@ -12,7 +12,7 @@ mv 旧　新
 - git
 
 ```
-//新規追加
+//新規追加 上　new repositoryの方　existingはversionをすでに管理しているとき
 git init
 git remote add origin url
 git branch -M main
