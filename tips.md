@@ -23,3 +23,4 @@ package.jsonのscripts
 ```
 頭には"npm run xxx"
 
+相対パスと絶対パス
