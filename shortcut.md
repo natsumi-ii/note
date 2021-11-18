@@ -39,6 +39,7 @@ command d shift => 縦分割
 command + f => 検索
 shift + enter => 前に戻る
 enter => 進む
+command + click =>新しいタブで開く
 
 
 ```
