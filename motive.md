@@ -11,7 +11,8 @@ web
 
 - brew install XXX
 
-## 場所でversionを変える
+## 場所で version を変える
+
 ```node
 node install version名
 nodenv local( or global ) 12.13.4
@@ -21,16 +22,18 @@ which node(mysql, nodenv)
 で調べる
 
 ```
+
 - request url = endpoint (/以下)
 
-- prisma =(ほぼ) mysqlコマンド
+- prisma =(ほぼ) mysql コマンド
 
-- control f => 右　karabinaで設定する
+- control f => 右　 karabina で設定する
 
-- 丸のgreen ステータスコード(200とか)
+- 丸の green ステータスコード(200 とか)
 
-- controller(endpointの集まり、定義) => service(controllerに渡す)
+- controller(endpoint の集まり、定義) => service(controller に渡す)
 
 ---
-- nestjsは => serve側で使っている
-- nextjsは => web側で使っている
+
+- nestjs は => serve 側で使っている
+- nextjs は => web 側で使っている

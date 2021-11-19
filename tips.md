@@ -1,34 +1,38 @@
 #　困ったときは
+
 ```
 npm init
 npm install
 ```
-# symbolic 
 
--  symbolicすることで、ファイル移動後も移動前と同じpathでアクセスできる
-- ex) ~/.zshrc 
-書き方： ln -s 旧パス(~/.zshrc) 新パス(dotfiles/.zshrc)
-terminalで実行するので一度実行すればOK
+# symbolic
+
+- symbolic することで、ファイル移動後も移動前と同じ path でアクセスできる
+- ex) ~/.zshrc
+  書き方： ln -s 旧パス(~/.zshrc) 新パス(dotfiles/.zshrc)
+  terminal で実行するので一度実行すれば OK
+
 ---
 
 - gui <==> cli
 
 - package-lock.json
-versionをlockしている
-githubで管理する
+  version を lock している
+  github で管理する
 
 - scripts
-package.jsonのscripts
+  package.json の scripts
 
 ```json
 "scripts": {
         "dev": "nest start --watch",
 }
 ```
+
 - 頭には"npm run xxx"
 
 - 相対パスと絶対パス
 
 - [WIP] 途中です
 
-- ? ===  optional
+- ? === optional

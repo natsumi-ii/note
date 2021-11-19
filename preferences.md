@@ -1,7 +1,8 @@
 #　設定一覧
+
 - magnet
 - karabina
-- BigBlueTerminal　terminalテーマ
+- BigBlueTerminal 　 terminal テーマ
 - Alttab ショートカット
 
 - slack

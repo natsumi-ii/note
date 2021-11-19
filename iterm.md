@@ -55,8 +55,6 @@ source ~/.zshrc
 
 node
 
-
-
 | pbcopy
 
 npm run start
@@ -75,8 +73,6 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
 (`${}`) =>string
 () =>object
 
-
-
 ```
 movie => gif => github
 
@@ -91,8 +87,6 @@ movie => gif => github
 
 dayjs = require('dayjs')
 
-
-
-- prismaで追加したときなど
-migrationをする
-prisma db pushで実質migration
+- prisma で追加したときなど
+  migration をする
+  prisma db push で実質 migration

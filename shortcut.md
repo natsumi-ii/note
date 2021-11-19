@@ -22,8 +22,8 @@ control +
 - +shift => go forward　進む(f12実行後)
 ```
 
-
 - iterm
+
 ```
 control r => fzf
 
@@ -31,7 +31,6 @@ command d => 分割
 command d shift => 縦分割
 
 ```
-
 
 - chrome
 
