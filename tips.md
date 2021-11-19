@@ -1,11 +1,15 @@
+#　困ったときは
+```
+npm init
+npm install
+```
 # symbolic 
-## symbolicすることで、ファイル移動後も移動前と同じpathでアクセスできる
-## ex) ~/.zshrc 
+
+-  symbolicすることで、ファイル移動後も移動前と同じpathでアクセスできる
+- ex) ~/.zshrc 
 書き方： ln -s 旧パス(~/.zshrc) 新パス(dotfiles/.zshrc)
 terminalで実行するので一度実行すればOK
 ---
-
-{}
 
 - gui <==> cli
 
@@ -21,6 +25,10 @@ package.jsonのscripts
         "dev": "nest start --watch",
 }
 ```
-頭には"npm run xxx"
+- 頭には"npm run xxx"
 
-相対パスと絶対パス
+- 相対パスと絶対パス
+
+- [WIP] 途中です
+
+- ? ===  optional

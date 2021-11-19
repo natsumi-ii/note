@@ -1,3 +1,4 @@
+#　設定一覧
 - magnet
 - karabina
 - BigBlueTerminal　terminalテーマ

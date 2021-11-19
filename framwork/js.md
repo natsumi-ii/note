@@ -14,7 +14,7 @@ sleep(time) {
 
 method.pc
 
-array
+## array
 
 - map :新しい配列を作る
 - filter 　：条件を満たす要素からなる新しい配列を作る
@@ -32,25 +32,25 @@ array
 
 <!-- https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String -->
 
-string
+## string
 
 - toString
 - length
 - replace :当てはまる初めの文字だけを置き換える
 - replaceAll
 
-object
+## object
 
 - Object.keys(obj 名)
 - Object.values(obj 名)
 
-loop
+## loop
 
 - for (const x of array)
 - array.forEach
 - for (let i = 0; i < 10; i++)
 
-number
+## number
 
 - parseInt :基数、n 進法
 

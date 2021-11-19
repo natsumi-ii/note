@@ -1,4 +1,4 @@
-- iterm
+## iterm
 
 ```
 ディレクトリ削除
@@ -9,7 +9,7 @@ mv 旧　新
 
 ```
 
-- git
+## git
 
 ```
 //新規追加 上　new repositoryの方　existingはversionをすでに管理しているとき
@@ -42,7 +42,7 @@ controle r =>fzf
 
 node で js を試す
 
-- alias
+## alias
 
 ```
 vim ~/.zshrc
@@ -55,13 +55,13 @@ source ~/.zshrc
 
 node
 
-[WIP] 途中です
+
 
 | pbcopy
 
 npm run start
 
-- token
+## token
 
 ```
 token の作り方
@@ -75,7 +75,7 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
 (`${}`) =>string
 () =>object
 
-? optional
+
 
 ```
 movie => gif => github
@@ -91,8 +91,7 @@ movie => gif => github
 
 dayjs = require('dayjs')
 
-nestjsは => serve側で使っている
-nextjsは => web側で使っている
+
 
 - prismaで追加したときなど
 migrationをする
