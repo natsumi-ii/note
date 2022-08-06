@@ -42,6 +42,9 @@ controle r =>fzf
 
 node で js を試す
 
+//既存のファイルをローカルに読み込む
+git clone URL
+
 ## alias
 
 ```
