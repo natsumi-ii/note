@@ -45,6 +45,13 @@ node で js を試す
 //既存のファイルをローカルに読み込む
 git clone URL
 
+//一時変更
+git stash 一時保存
+git stash list 一覧
+git stash pop 0番目のstashを戻す
+sl 戻す
+
+
 ## alias
 
 ```
