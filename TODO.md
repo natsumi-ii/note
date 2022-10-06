@@ -20,4 +20,4 @@ Controllerの編集
 - views/admin/teacherにsave,search,tableを追加
 save:新規作成保存
 search:検索
-table:一つの項目
+table:一つの項目\\\\\\\\\\\\\\
