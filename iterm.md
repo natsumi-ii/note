@@ -31,6 +31,9 @@ git branch -m <新しいブランチ名>
 //新ブランチ作成
 git checkout -b　ブランチ名
 
+//ブランチ削除
+git branch -d ブランチ名
+
 //conflict
 git pull --rebase origin ブランチ名
 git add
@@ -50,6 +53,11 @@ git stash 一時保存
 git stash list 一覧
 git stash pop 0番目のstashを戻す
 sl 戻す
+
+//mergeした部分を削除する
+
+git revert -m 1 <commitの横にある黄色い文字列>
+
 
 
 ## alias
