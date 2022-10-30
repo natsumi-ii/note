@@ -21,3 +21,6 @@ Controllerの編集
 save:新規作成保存
 search:検索
 table:一つの項目\\\\\\\\\\\\\\
+
+
+- CoachかTeacherか
